@@ -2,6 +2,8 @@
 
 This is a repo for us to learn Python. It's an open repository, but also a work in progress. Use at your own risk.
 
+A shared doc for most info is [available on Google Drive](https://docs.google.com/document/d/15nF96QvYHQ6RR-zM7rz35gbU6prhylRlMFWmweXAM_8/edit?usp=sharing). Ask Chris for access.
+
 ## Getting started
 
 You'll use a combination of GitHub and CodeSpaces. GitHub is a place to store code, and is the website you're currently on. Create an account.
