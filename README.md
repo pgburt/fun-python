@@ -20,7 +20,7 @@ If you would like to code locally, [Git](https://git-scm.com/downloads), [Python
 
 ## Do I need to know Math to program?
 
-Not really. IF you can add `500 + 60` together, you know enough Math to program. This is the kind of Math use in 99% of programming. Most basic programming is more about staying organized, and and paying close attention to the details.
+Nott really. IF you can add `500 + 60` together, you know enough Math to program. This is the kind of Math use in 99% of programming. Most basic programming is more about staying organized, and and paying close attention to the details.
 
 The other 1% is often falls under the category of Discrete Mathematics or Linear Algebra. This other Math is used to tell how slow an algorithm might be, or how to sort a list of integers the fastest way. It's a niche category of programming, and often these sorts of calculations are things you can look up online.
 
